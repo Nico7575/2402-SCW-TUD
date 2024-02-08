@@ -2,7 +2,7 @@
 Aim: this script counts the number of lines in standard input
 Input: strings from  the command line
 Output: I have added another line
-Author: Nicolo Magro
+Author: Magro, Nicolo
 """
 
 import sys
